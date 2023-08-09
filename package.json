@@ -2,7 +2,7 @@
   "name": "hasnreziga",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://102.16.125.222/hasnreziga/",
+  "homepage": "https://hasnreziga.netlify.app",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
