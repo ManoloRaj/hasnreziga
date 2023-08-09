@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hasnreziga/static/css/main.22d215bd.css",
+    "main.js": "/hasnreziga/static/js/main.859dc374.js",
+    "static/js/787.841f0c3c.chunk.js": "/hasnreziga/static/js/787.841f0c3c.chunk.js",
+    "static/media/image3.png": "/hasnreziga/static/media/image3.14f2f6b7b95726e1f110.png",
+    "static/media/image2.png": "/hasnreziga/static/media/image2.44b50af6b6a947eeb317.png",
+    "static/media/image1.png": "/hasnreziga/static/media/image1.6680d1c6e08fcc02a1d0.png",
+    "static/media/image4.png": "/hasnreziga/static/media/image4.3b4ad78120eb323fa43a.png",
+    "static/media/hasina.jpg": "/hasnreziga/static/media/hasina.9c2b3242a8def89c5f0a.jpg",
+    "static/media/manolo.jpg": "/hasnreziga/static/media/manolo.6b730cb85ea26d0523c4.jpg",
+    "static/media/logo.svg": "/hasnreziga/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hasnreziga/index.html",
+    "main.22d215bd.css.map": "/hasnreziga/static/css/main.22d215bd.css.map",
+    "main.859dc374.js.map": "/hasnreziga/static/js/main.859dc374.js.map",
+    "787.841f0c3c.chunk.js.map": "/hasnreziga/static/js/787.841f0c3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22d215bd.css",
+    "static/js/main.859dc374.js"
+  ]
+}
