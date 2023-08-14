@@ -10,7 +10,7 @@ import { Equipe } from './pages/equipe/Equipe';
 function App() {
   return (
     <div className="App">
-      <Router basename='/hasnreziga'>
+      <Router>
         <Navbar />
         <Routes>
           <Route path="" element={<Home />} />
