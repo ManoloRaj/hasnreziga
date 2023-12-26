@@ -25,6 +25,12 @@ export function Navbar() {
                 })
                 console.log("HOME")
                 break;
+            case ("/portfolio"):
+                setisactive({
+                    portfolio: "active"
+                })
+                console.log("HOME")
+                break;
             case ("/equipe"):
                 setisactive({
                     equipe: "active"
@@ -72,12 +78,13 @@ export function Navbar() {
                                 Notre equipe
                             </li>
                         </Link>
+                        <Link to="/portfolio">
                         <li
                             className={isactive.portfolio}
                             onClick={() => setOpen_responsive(!open_responsive)}>
                             Portfolio
                         </li>
-
+                        </Link>
                         <Link to="contact">
                             <li
                                 className={isactive.contact}
